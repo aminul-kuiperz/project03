@@ -1,0 +1,290 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato';
+}
+
+.subDetails {
+    float: left;
+    margin-left: 56px;
+    text-transform: uppercase;
+    color: #ddd;
+    font-weight: 500;
+    font-family: 'Lato';
+    margin-top: 12px;
+}
+
+.topbarmain {
+    background: black;
+    height: 50px;
+    width: 100%;
+}
+#background {
+    background-image: url(Images/la.jpg);
+    height: 600px;
+    width: 1263px;
+}
+.BImage {
+    text-align: center;
+    color: white;
+    padding-top: 470px;
+}
+.container {
+    width: 784px;
+    margin-left: 255px;
+    overflow: hidden;
+}
+
+.SubBand h1 {margin-left: 286px;letter-spacing: 5px;font-size: 30px;font-weight: 400;}
+
+.SubBand i {
+    margin-left: 333px;
+    font-size: 16px;
+    color: #a2a2a2;
+}
+.SubBand p{
+	text-align:justify;
+}
+.SubBand {
+    padding: 83px 0px;
+}
+.singleBox {
+    float: left;
+    margin-left: 78px;
+    margin-top: -46px;
+    padding-bottom: 100px;
+}
+
+.singleBox img {
+    width: 153px;
+    border-radius: 3px;
+}
+
+.singleBox h4 {
+    margin-left: 54px;
+}
+
+#Dates{
+	background:black;
+	color:white;
+	padding-top: 108px;
+	padding-bottom: 111px;
+}
+.titleDates {
+    text-align: center;
+    line-height: 24px;
+    margin-top: -26px!important;
+    padding-bottom: 28px;
+}
+
+.titleDates h2 {
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 400;
+}
+
+.titleDates i {
+    font-size: 17px;
+    color: #969696;
+}
+
+ul.Sales p {
+    display: inline;
+    margin-left: 19px;
+    font-weight: 400;
+}
+
+p.sold {
+    background: red;
+    padding: 3px 11px;
+    color: white;
+    font-size: 15px;
+}
+
+ul.Sales li {
+    list-style: none;
+}
+
+ul.Sales {
+    background: white;
+    color: #949494;
+    height: 118px;
+    line-height: 38px;
+    margin-left: -40px;
+}
+
+li.D2 {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+
+li span {
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 1px 6px;
+    color: white;
+    font-weight: 600;
+    background: black;
+    margin-left: 650px;
+}
+.singleBoxDates img {
+    height: 184px;
+}
+
+.details {
+    color: black;
+    margin-left: 15px;
+    padding-bottom: 17px;
+}
+
+.singleBoxDates {
+    width: 245px;
+    overflow: hidden;
+    background: white;
+    float: left;
+    margin-right: 24px;
+    margin-top: 35px;
+}
+
+.details h3 {
+    font-size: 16px;
+}
+
+.details h2 {
+    font-size: 16px;
+    color: #929292;
+    font-weight: 500;
+}
+
+button {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px 17px;
+    font-size: 15px;
+    font-family: 'Lato';
+	cursor:pointer;
+}
+
+.singleBoxDates:last-child {
+    margin-right: 0px;
+}
+
+section#ContactUs {
+    padding: 80px 0px;
+    overflow: hidden;
+}
+
+.cntact {
+    text-align: center;
+    line-height: 16px;
+}
+
+.cntact h3 {
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+
+.cntact i {color: #868686;}
+
+.inputs {float: right;margin-top: -96px;margin-right: 171px;}
+
+.address {
+    /* display: inline; */
+    font-size: 19px;
+    margin-left: 324px;
+    width: fit-content;
+    margin-top: 45px;
+    line-height: 30px;
+}
+
+.inputs {}
+
+.name {
+    float: left;
+}
+
+.email {
+    float: left;
+}
+
+.massege input {
+    width: 371px;
+}
+input.A {
+    padding: 13px;
+    border: 1px solid #b0b0b0;
+}
+
+.B {
+    padding: 8px 3px;
+}
+
+.name {
+    margin-right: 13px;
+}
+button.btn {
+    float: right;
+    margin-top: 10px;
+    margin-right: 3px;
+    padding: 10px 17px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+footer {
+    height: 232px;
+    overflow: hidden;
+}
+
+.foot {
+    text-align: center;
+    margin-top: 184px;
+    color: #8b8b8b;
+    word-spacing: 3px;
+}
+
+.foot a {
+    color: #8b8b8b;
+    margin-left: 8px;
+}
+.foot {
+    text-align: center;
+    margin-top: 184px;
+    color: #8b8b8b;
+    word-spacing: 3px;
+}
+
+a {}
+
+.foot a {
+    color: #8b8b8b;
+    margin-left: 8px;
+}
+
+section#lastimg {width: 1263px;}
+
+.img img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
